@@ -1,0 +1,14 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# veri setleri buyuk, kaggle'dan indiriliyor
+veri/
+
+# calisirken olusan dosyalar
+kirpintilar/
+gecici.png
+calistir_log.txt
+sonuclar/*.mp4

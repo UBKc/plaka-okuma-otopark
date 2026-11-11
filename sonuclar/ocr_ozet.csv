@@ -1,0 +1,13 @@
+﻿veri,model,on_isleme,dogru_%,ortalama_ms
+gercek,Tesseract,yok,16.0,212.3
+gercek,Tesseract,var,20.0,206.2
+gercek,EasyOCR,yok,78.0,630.2
+gercek,EasyOCR,var,74.0,1834.6
+gercek,fast-plate-ocr,yok,100.0,21.3
+gercek,fast-plate-ocr,var,92.0,17.6
+sentetik,Tesseract,yok,84.7,168.1
+sentetik,Tesseract,var,82.0,181.7
+sentetik,EasyOCR,yok,95.7,673.9
+sentetik,EasyOCR,var,93.7,2258.1
+sentetik,fast-plate-ocr,yok,94.7,13.7
+sentetik,fast-plate-ocr,var,91.0,18.0
