@@ -1,5 +1,7 @@
 # Plaka Okuma ve Otopark Giriş-Çıkış Sistemi
 
+*Turkish license plate recognition (YOLO + OCR) with parking entry/exit matching and fee calculation. Compared Tesseract, EasyOCR and fast-plate-ocr; fast-plate-ocr read 50/50 real plates correctly at ~16 ms.*
+
 Kamera görüntüsünden araç plakasını bulup okuyan (YOLO + OCR), aynı aracın giriş ve çıkışını eşleştirip kalış süresini ve ücretini hesaplayan bir sistem.
 
 ![çıkış kartı](ekran_goruntuleri/cikis_kartlari/66AP857.jpg)
